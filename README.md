@@ -1,13 +1,13 @@
 ### Hi there 👋, hope you're doing well
-### I am Arefin Ahammed
-I am currently a first year student of Computer Science (B.Sc.) at The University of Manchester. I don't have a lot of accomplishments yet but am working hard for many more. 
+### I'm Arefin Ahammed
+I'm originally from Bangladesh and currently living in the UK. I am a first year student of Computer Science (B.Sc.) at The University of Manchester. I don't have a lot of accomplishments yet but am working hard for many more. 
 
 ## Skills:
 * 💻 Python / HTML / CSS / LaTex / Verilog
 * 📱 ARM
 
 ## Experience: 
-Currently none in technical side.
+Till now, none in technical side.
 - 🔭 I’m currently working on our website for first year project and learning backend programming with python
 
 
