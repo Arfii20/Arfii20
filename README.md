@@ -1,5 +1,4 @@
-### Hi there 👋, hope you're doing well
-### I'm Arefin Ahammed
+### Hi there 👋, Arefin Ahammed here
 I'm originally from Bangladesh and currently living in the UK. I am a first year student of Computer Science (B.Sc.) at The University of Manchester. I don't have a lot of accomplishments yet but am working hard for many more. 
 
 ## Skills:
