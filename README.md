@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, hope you're doing well
+#### I am Arefin Ahammed
+I am currently a first year student of Computer Science in The University of Manchester. I don't have a lot of accomplishments yet but am working hard for many more. 
+
+Skills: Python / HTML / CSS / Verilog / ARM
 
 <!--
 **Arfii20/Arfii20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
