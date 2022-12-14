@@ -1,6 +1,6 @@
 ## Hi there 👋, hope you're doing well
 ### I am Arefin Ahammed
-####I am currently a first year student of Computer Science in The University of Manchester. I don't have a lot of accomplishments yet but am working hard for many more. 
+###I am currently a first year student of Computer Science in The University of Manchester. I don't have a lot of accomplishments yet but am working hard for many more. 
 
 ## Skills:
 * 💻 Python / HTML / CSS / Verilog
