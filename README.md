@@ -9,6 +9,7 @@ I am currently a first year student of Computer Science (B.Sc.) at The Universit
 ## Experience: 
 Currently none in technical side.
 
+## Other Info:
 - 🔭 I’m currently working on our website for first year project and learning backend programming with python
 
 - 📫 Reach me at: arefinahammed63@gmail.com 
