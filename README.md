@@ -7,8 +7,7 @@ I'm originally from Bangladesh and currently living in the UK. I am a first year
 * 📱 ARM
 
 ## Experience: 
-Till now, none in technical side.
-- 🔭 I’m currently working on our website for first year project and learning backend programming with python
+Worked on a few programs and a team project. Most of them are present in Repositories.
 
 
 ## Contact Info:
