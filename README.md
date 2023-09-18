@@ -3,7 +3,7 @@ I'm originally from Bangladesh and currently living in the UK. I am a first year
 
 ## Languages:
 * 💻 Python | Java
-* 💻 C | MySQL | HTML | CSS | JavaScript | LaTex | Verilog
+* 💻 C | PHP | MySQL | HTML | CSS | JavaScript | LaTex | Verilog
 * 📱 ARM
 
 ## Experience: 
