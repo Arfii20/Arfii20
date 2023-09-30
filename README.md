@@ -1,5 +1,5 @@
 ### Hi there 👋, Arefin Ahammed here
-I'm originally from Bangladesh and currently living in the UK. I am a first year student of Computer Science (B.Sc.) at The University of Manchester. I don't have a lot of accomplishments yet but am working hard for many more. 
+I'm originally from Bangladesh and currently living in the UK. I am a second year student of Computer Science (B.Sc.) at The University of Manchester. I don't have a lot of accomplishments yet but am working hard for many more. 
 
 ## Languages:
 * 💻 Python | Java
@@ -7,7 +7,7 @@ I'm originally from Bangladesh and currently living in the UK. I am a first year
 * 📱 ARM
 
 ## Experience: 
-Worked on a few programs and a team project. Most of them are present in Repositories.
+Worked on a few personal and team projects. Most of them are present in Repositories.
 
 
 ## Contact Info:
