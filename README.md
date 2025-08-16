@@ -1,14 +1,22 @@
 ### Hi there 👋, Arefin Ahammed here
-I'm originally from Bangladesh and currently living in the UK. I am a second year student of Computer Science (B.Sc.) at The University of Manchester. I don't have a lot of accomplishments yet but am working hard for many more. 
+I'm originally from Bangladesh and currently living in the UK. I am a final year student of Computer Science (B.Sc.) at The University of Manchester. I have also worked as a software test engineer in Cambridge Consultants for 14 months during my placement year and learned a lot of skills and I aim to improve my skills in future
 
-## Languages:
-* 💻 Python | Java
-* 💻 C | PHP | MySQL | HTML | CSS | JavaScript | LaTex | Verilog
-* 📱 ARM
+## Languages and Modules:
+* 💻 Python | Java | C | C++
+* 💻 HTML | CSS | JavaScript | React
+* 💻 PHP | SQL | Django | Flask RESTful | FastAPI | Spring
+* 💻 LaTex | Verilog | Haskell
+* 📱 ARM Assembly
+
+## Other technical skills
+* CI/CD
+* Jira
+* Sphinx
 
 ## Experience: 
 Worked on a few personal and team projects. Most of them are present in Repositories.
 
+Also as previously mentioned, worked as a Software Test Engineer at Cambridge Consultants
 
 ## Contact Info:
 - 📫 Reach me at: arefinahammed63@gmail.com 
