@@ -1,5 +1,5 @@
 ### Hi there 👋, Arefin Ahammed here
-I'm originally from Bangladesh and currently living in the UK. I am a final year student of Computer Science (B.Sc.) at The University of Manchester. I have also worked as a software test engineer in Cambridge Consultants for 14 months during my placement year and learned a lot of skills and I aim to improve my skills in future
+I am a final year student of Computer Science (B.Sc.) at The University of Manchester. I have also worked as a software test engineer in Cambridge Consultants for 14 months during my placement year and learned a lot of skills and I aim to improve my skills in future
 
 ## Languages and Modules:
 * 💻 Python | Java | C | C++
@@ -23,4 +23,4 @@ Also as previously mentioned, worked as a Software Test Engineer at Cambridge Co
 
 You can also find me clicking on any of the following
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arfi20/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arfii20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arfiii20/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Arfiii20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/arfii20)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arefin20/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arfii20)
